@@ -66,7 +66,7 @@ We were able to get proof of concept and got a meterpreter/shell for metasploita
 <br>
 
 ## Team (github usernames)
-somi3k
+danielpygo
 
 smehta1215
 
